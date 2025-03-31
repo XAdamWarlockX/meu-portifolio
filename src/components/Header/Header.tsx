@@ -1,7 +1,6 @@
 import { useState } from "react"
 import { Header, H1, Nav, Ul, Li, Curriculo, LinkCurriculo } from "../../styles/HeaderStyles"
 import { Link } from "react-router-dom"
-// import styled from "styled-components"
 
 export const HeaderFixed = () => {
     const [display, setDisplay] = useState<string>("none")

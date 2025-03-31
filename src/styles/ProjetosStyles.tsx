@@ -49,7 +49,6 @@ export const Projeto = styled.div`
     position: relative;
     width: 250px;
     height: 350px;
-    // z-index: 1;
 
     &:hover {
        animation: ${Animacao} 0.3s ease-in-out both;
