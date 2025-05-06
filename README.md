@@ -8,9 +8,9 @@ Nele você podera ver minhas redes sociais, informações sobre mim, minhas habi
 
 - React <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/452092/react.svg">
 
-- React Router <img align="center" alt="React" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg">
+- React Router <img align="center" alt="React Router" height="30" width="40" src="https://www.svgrepo.com/show/354262/react-router.svg">
 
-- Styled Components <img align="center" alt="React" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
+- Styled Components <img align="center" alt="Styled Components" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
 
 - TypeScript <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
@@ -24,7 +24,7 @@ Veja uma pequena prévia do meu portfólio.
 
 <img src="src/assets/previa-mobile.gif">
 
-Para ver mais detalhes acesse o link do projeto hospedado no vercel fixado nos detalhes do repositorio ou faça um clone do mesmo.
+Para ver mais detalhes acesse o link do projeto hospedado no vercel fixado nos detalhes do repositório ou faça um clone do mesmo.
 
 ## Passo a passo para clonar o projeto 📝
 

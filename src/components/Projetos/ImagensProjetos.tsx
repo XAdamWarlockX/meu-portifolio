@@ -4,6 +4,7 @@ import projeto3 from "../../assets/images/projeto-3.png"
 import projeto4 from "../../assets/images/projeto-4.png"
 import projeto5 from "../../assets/images/projeto-5.png"
 import projeto6 from "../../assets/images/projeto-6.png"
+import projeto7 from "../../assets/images/projeto-7.png"
 
 interface Imagens {
     imagem1: string
@@ -12,6 +13,7 @@ interface Imagens {
     imagem4: string
     imagem5: string
     imagem6: string
+    imagem7: string
 }
 
 export const projetos: Imagens = {
@@ -20,5 +22,6 @@ export const projetos: Imagens = {
     imagem3: projeto3,
     imagem4: projeto4,
     imagem5: projeto5,
-    imagem6: projeto6
+    imagem6: projeto6,
+    imagem7: projeto7
 }

@@ -8,22 +8,22 @@ export const Projetos = () => {
 
             <ContainerProjetos>
                 <Projeto>
-                    <a href="https://github.com/XAdamWarlockX/projeto-poke-api" target="_blank">
+                    <a href="https://github.com/XAdamWarlockX/projeto-lista-de-produtos-com-carrinho" target="_blank">
                         <Img src={projetos.imagem1} />
                         <H3>Projeto 1</H3>
                         <Infos>
-                            <P>Projeto feito usando React e TypeScript.</P>
+                            <P>Projeto feito usando React, Styled Components, React Responsive e TypeScript.</P>
                             <P>🔗 Ver no GitHub</P>
                         </Infos>
                     </a>
                 </Projeto>
 
                 <Projeto>
-                    <a href="https://github.com/XAdamWarlockX/projeto-advice-generator" target="_blank">
-                        <Img src={projetos.imagem2} alt="Nome do projeto" />
+                    <a href="https://github.com/XAdamWarlockX/projeto-poke-api" target="_blank">
+                        <Img src={projetos.imagem2} />
                         <H3>Projeto 2</H3>
                         <Infos>
-                            <P>Projeto feito usando HTML, CSS, JavaScript e TypeScript.</P>
+                            <P>Projeto feito usando React e TypeScript.</P>
                             <P>🔗 Ver no GitHub</P>
                         </Infos>
                     </a>
@@ -41,7 +41,7 @@ export const Projetos = () => {
                 </Projeto>
 
                 <Projeto>
-                    <a href="https://github.com/XAdamWarlockX/projeto-formulario-com-validacao" target="_blank">
+                    <a href="https://github.com/XAdamWarlockX/projeto-advice-generator" target="_blank">
                         <Img src={projetos.imagem4} alt="Nome do projeto" />
                         <H3>Projeto 4</H3>
                         <Infos>
@@ -52,9 +52,20 @@ export const Projetos = () => {
                 </Projeto>
 
                 <Projeto>
-                    <a href="https://github.com/XAdamWarlockX/projeto-huddle-landing-page" target="_blank">
+                    <a href="https://github.com/XAdamWarlockX/projeto-formulario-com-validacao" target="_blank">
                         <Img src={projetos.imagem5} alt="Nome do projeto" />
                         <H3>Projeto 5</H3>
+                        <Infos>
+                            <P>Projeto feito usando HTML, CSS, JavaScript e TypeScript.</P>
+                            <P>🔗 Ver no GitHub</P>
+                        </Infos>
+                    </a>
+                </Projeto>
+
+                <Projeto>
+                    <a href="https://github.com/XAdamWarlockX/projeto-huddle-landing-page" target="_blank">
+                        <Img src={projetos.imagem6} alt="Nome do projeto" />
+                        <H3>Projeto 6</H3>
                         <Infos>
                             <P>Projeto feito usando HTML e CSS.</P>
                             <P>🔗 Ver no GitHub</P>
@@ -64,8 +75,8 @@ export const Projetos = () => {
 
                 <Projeto>
                     <a href="https://github.com/XAdamWarlockX/projeto-calculador-de-idade" target="_blank">
-                        <Img src={projetos.imagem6} alt="Nome do projeto" />
-                        <H3>Projeto 6</H3>
+                        <Img src={projetos.imagem7} alt="Nome do projeto" />
+                        <H3>Projeto 7</H3>
                         <Infos>
                             <P>Projeto feito usando HTML, CSS, JavaScript e TypeScript.</P>
                             <P>🔗 Ver no GitHub</P>
