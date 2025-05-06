@@ -20,7 +20,7 @@ export const HeaderFixed = () => {
                     <Link onClick={alterarMenu} to="/projetos"><Li>Projetos</Li></Link>
                     <Link onClick={alterarMenu} to="/redes"><Li>Minhas Redes</Li></Link>
                 </Ul>
-                <LinkCurriculo target="_blank" to="https://drive.google.com/file/d/1vVzwaMKm19SDE6F7ccWLAoLQG70Y8MTi/view?usp=sharing">
+                <LinkCurriculo target="_blank" to="https://docs.google.com/document/d/1K7lhIVKm2O3aIATx_Z4EMxsQm7Jo8qtt/edit?usp=sharing&ouid=117845453756042676056&rtpof=true&sd=true">
                         <Curriculo>Currículo</Curriculo>
                 </LinkCurriculo>
             </Nav>
